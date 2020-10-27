@@ -1,0 +1,5 @@
+--Initializing Particles
+theta1=EVar64(value: EFloat64(value: -35.007256634406,low: -35.007256634406,high: -35.007256634406),min: -50,max: 50)
+theta2=EVar64(value: EFloat64(value: 42.1442941440622,low: 42.1442941440622,high: 42.1442941440622),min: -50,max: 50)
+theta3=EVar64(value: EFloat64(value: -46.4717720041383,low: -46.4717720041383,high: -46.4717720041383),min: -50,max: 50)
+theta4=EVar64(value: EFloat64(value: 963.124118356762,low: 963.124118356762,high: 963.124118356762),min: -1000,max: 1000)

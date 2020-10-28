@@ -4,7 +4,7 @@
 used in a constrained optimization setting.
 
 This program calculates the parameters to be estimated based on the number of square meters and the rental price. The goal is to set up a function based on these parameters, which makes it possible to calculate the average rental price based on the number of square meters. 
-The program takes the data from the file daten.txt and calculates the parameters to be estimated by means of particle swarm optimization or Newton-Gauss algorithm
+The program takes the data from the file daten.txt and calculates the parameters to be estimated by means of particle swarm optimization or Newton-Gauss algorithm.
 
 # Contents
 This document should give a broad overview on **Rental calculator** combined with some usage examples.
